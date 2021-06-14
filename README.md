@@ -25,3 +25,8 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+
+<hr>
+
+Link to initial high fidelity [mock-up](https://www.figma.com/file/nTkCzzwqS0mV0k3P0dhSTr/Ng-Portfolio?node-id=0%3A1)
