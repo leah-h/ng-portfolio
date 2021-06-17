@@ -1,0 +1,10 @@
+.about-container {
+  background-image: url("../../assets/images/12-11-2020_om2036.jpg");
+  width: 100%;
+  height: auto;
+}
+
+.profile-section {
+  background-color: aliceblue;
+  margin-top: 10%;
+}
